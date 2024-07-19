@@ -29,9 +29,9 @@ spring.cloud.config.server.git.default-label=main
 
 eureka.client.service-url.defaultZone=http://localhost:8761/eureka/
 eureka.client.register-with-eureka=true
-eureka.client.fetch-registry=true
+eureka.client.fetch-registry=true  ```
 
-## Configuration des applications clientes
+### Configuration des applications clientes
 Assurez-vous que chaque application cliente est configurée pour utiliser le serveur de configuration. Voici un exemple de configuration pour une application cliente :
 
 properties
