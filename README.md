@@ -63,7 +63,7 @@ Vérification du serveur de configuration
 Pour vérifier que le serveur de configuration fonctionne correctement, accédez aux URLs suivantes dans votre navigateur ou utilisez un outil comme curl :
 
 Pour service1 : http://localhost:8888/Config-service1/default
-de meme pour les autres 
+
 ![Capture d’écran (126)](https://github.com/user-attachments/assets/696c066b-1687-4dfb-8e75-30dea8c2a49c)
 de meme pour les autres services .
 
